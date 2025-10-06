@@ -1,6 +1,6 @@
 # Unity Marching Cubes Voxel Terrain Editor
 
-![Unity](https://img.shields.io/badge/Unity-2021.3%2B-blueviolet) ![License](https://img.shields.io/badge/License-MIT-green)
+![Unity](https://img.shields.io/badge/Unity-2021.3%2B-blueviolet) 
 
 This repository contains a fully-featured 3D voxel terrain editor built in Unity. The project was developed as a graded assignment for the **Computer Graphics 2 (Računarska grafika 2)** course at the **University of Belgrade, Faculty of Electrical Engineering**.
 
@@ -66,7 +66,9 @@ This tool provides a complete solution for real-time terrain sculpting and visua
 
 ## Screenshots
 Creating a bridge over a "river boat"
+
 <img width="615" height="280" alt="image" src="https://github.com/user-attachments/assets/9ecc975c-f3a2-48c7-82bb-136b383c2b77" />
+
 <img width="286" height="96" alt="image" src="https://github.com/user-attachments/assets/dc2cae55-f099-48c6-85a0-eaa5a406c946" />
 
 
